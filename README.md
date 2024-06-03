@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Vicki (@missvickies)
 - 🗺 I’m currently working on a web application where you can find tiktok reccommended restaurants in Toronto.
 - 👀 I’m interested in full-stack development and data visualizations. 
-- 🌱 I'm also learning more about cloud services with AWS Cloud Quest
+- 🌱 Also participating in the Microsoft AI Hackathon - stay tuned
 - ✨ My hobbies are jewellery making and baking!
