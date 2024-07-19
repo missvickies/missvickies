@@ -2,4 +2,4 @@
 - 🗺 I’m currently working on a web application where you can find tiktok reccommended restaurants in Toronto.
 - 👀 I’m interested in full-stack development and data visualizations. 
 - 🌱 Also participating in the Microsoft AI Hackathon - stay tuned
-- ✨ My hobbies are jewellery making and baking!
+- ✨ My hobbies are golfing and metal smithing!
